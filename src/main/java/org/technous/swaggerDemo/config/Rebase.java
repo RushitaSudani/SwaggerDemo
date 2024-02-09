@@ -6,6 +6,6 @@ public class Rebase {
     }
 
     void test1(){
-        System.out.println("dfgh");
+        System.out.println("dfgh adddd");
     }
 }
