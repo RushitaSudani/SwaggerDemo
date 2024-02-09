@@ -2,6 +2,6 @@ package org.technous.swaggerDemo.config;
 
 public class Rebase {
     void run(){
-        System.out.println("dfghjkhgm,nb");
+        System.out.println("dfghjkhgmdfghjk,nb");
     }
 }
